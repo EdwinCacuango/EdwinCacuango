@@ -1,13 +1,12 @@
 ### Buen día! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Mi nombre es Edwin, abogado y frontend developer. Utilizo la tecnología para hacer más fácil el acceso a los servios legales, la gestión para el trabajo legal y la automatización para mejorar procesos repetitivos de baja complejidad. 
 
-- Actualmente estoy trabajando en scripts para automatización🤖
-- Estoy aprendiendo Java, OPP y Springboot para microservicios🧂
-- Tengo experiencia en creación de SPAs y sitios web basados en react o nextjs
-- He experimentado con Node Js para la creacion de apis básicas
+- 🤖 Actualmente estoy trabajando en scripts para automatización
+- 🧂 Estoy aprendiendo Java, OPP y Springboot para microservicios
+- 🥑 Tengo experiencia en creación de SPAs y sitios web basados en react o nextjs
+- 🧑🏻‍🔬 He experimentado con Node Js para la creacion de apis básicas
 
-Bonus: Soy fanatico de la cocina y creo que es una maravillosa forma de conocer la historia de cualquier parte del mundo. 🥘 == ⛰️🕵🏼
-Me especializo en la creacion de web apps usando React 
+Bonus: Soy fanatico de la cocina y creo que es una maravillosa forma de conocer la historia de cualquier parte del mundo. 🥘 == ⛰️🕵🏼. ¿Cocinamos una aplicación juntos?😬
 
 <!--
 **EdwinCacuango/EdwinCacuango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
